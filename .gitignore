@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+
+# Node
+node_modules/
+apps/api/node_modules/
+apps/api/dist/
+apps/api/coverage/
+
+# Flutter
+**/.dart_tool/
+**/build/
+
+# Env
+apps/api/.env
+apps/api/.env.*
+!.env.example
